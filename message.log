@@ -952,3 +952,22 @@ make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
 [2022-06-09 17:43:21] Start user program execution
 [2022-06-09 17:43:21] User program execution successfully
 [2022-06-09 17:43:21] command.sh Execution successfully
+[2022-06-10 11:00:55] ----------Number of executions  1----------
+[2022-06-10 11:00:55] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-10 11:00:55] Start command.sh
+[2022-06-10 11:00:55] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-10 11:00:55] Rmmod drive failed 
+[2022-06-10 11:00:55] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-10 11:00:55] Makefile successfully
+[2022-06-10 11:00:55] Start insmod drive
+[2022-06-10 11:00:55] insmod drive successfully
+[2022-06-10 11:00:55] Start compiling user program
+[2022-06-10 11:00:55] Compiling user program successfully
+[2022-06-10 11:00:55] Start user program execution
+[2022-06-10 11:00:55] User program execution successfully
+[2022-06-10 11:00:55] Execute make clean successfully
+[2022-06-10 11:00:55] command.sh Execution successfully
