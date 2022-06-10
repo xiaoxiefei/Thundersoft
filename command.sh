@@ -90,6 +90,17 @@ do
 		continue
 	fi
 done
+
+#执行make clean 
+cd ./Driver
+make c >>logfile 2>&1
+if [ $? -eq 0 ]
+then
+	echo ${TIME} "Execute make clean successfully" >> $logfile
+else
+	echo ${TIME} "Execute make clean failed" >> $logfile
+fi
+
 if [ $index -eq 6 ]
 then
 	echo ${TIME} "command.sh Execution failed" >>$logfile
