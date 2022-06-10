@@ -1,0 +1,1 @@
+cmd_/home/xie/Desktop/Thundersoft/IOctl/Module.symvers := sed 's/\.ko$$/\.o/' /home/xie/Desktop/Thundersoft/IOctl/modules.order | scripts/mod/modpost -m -a  -o /home/xie/Desktop/Thundersoft/IOctl/Module.symvers -e -i Module.symvers   -T -

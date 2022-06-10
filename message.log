@@ -1,0 +1,954 @@
+successfully
+successfully
+successfully
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+successfully
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+successfully
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+successfully
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+./User/user.c:5:10: fatal error: lisnf: No such file or directory
+    5 | #include <lisnf>
+      |          ^~~~~~~
+compilation terminated.
+[2022-06-09 16:08:31] Start command.sh
+[2022-06-09 16:08:31] rmmod drive successfully
+[2022-06-09 16:08:31] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+./User/user.c:5:10: fatal error: lisnf: No such file or directory
+    5 | #include <lisnf>
+      |          ^~~~~~~
+compilation terminated.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 16:09:14] Start command.sh
+[2022-06-09 16:09:14] rmmod drive successfully
+[2022-06-09 16:09:14] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 16:10:17] Start command.sh
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 16:10:17] rmmod drive failed
+[2022-06-09 16:10:17] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 16:11:59] Start command.sh
+rmmod: ERROR: Module [2022_06_09 is not currently loaded
+rmmod: ERROR: Module 16:11:59] is not currently loaded
+[2022-06-09 16:11:59] rmmod drive failed
+[2022-06-09 16:11:59] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 16:12:56] Start command.sh
+rmmod: ERROR: Module [2022_06_09 is not currently loaded
+rmmod: ERROR: Module 16:12:56] is not currently loaded
+[2022-06-09 16:12:56] rmmod drive failed
+[2022-06-09 16:12:56] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 16:13:45] Start command.sh
+[2022-06-09 16:13:45] rmmod drive successfully
+[2022-06-09 16:13:45] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 16:15:37] Start command.sh
+[2022-06-09 16:15:37] rmmod drive successfully
+[2022-06-09 16:15:37] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 16:16:36] Start command.sh
+[2022-06-09 16:16:36] rmmod drive successfully
+[2022-06-09 16:16:36] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 16:17:12] Start command.sh
+[2022-06-09 16:17:12] rmmod drive successfully
+[2022-06-09 16:17:12] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 16:17:34] Start command.sh
+[2022-06-09 16:17:34] rmmod drive successfully
+[2022-06-09 16:17:34] Start Makefile
+[2022-06-09 16:20:53] Start command.sh
+[2022-06-09 16:20:53] rmmod drive successfully
+[2022-06-09 16:20:53] Start Makefile
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 16:22:27] Start command.sh
+[2022-06-09 16:22:27] rmmod drive successfully
+[2022-06-09 16:22:27] Start Makefile
+[2022-06-09 16:23:49] Start command.sh
+[2022-06-09 16:23:49] rmmod drive successfully
+[2022-06-09 16:23:49] Start Makefile
+[2022-06-09 16:25:24] /home/xie/Desktop/Thundersoft/message.log  is create.
+[2022-06-09 16:25:24] Start command.sh
+[2022-06-09 16:25:24] rmmod drive successfully
+[2022-06-09 16:25:24] Start Makefile
+[2022-06-09 16:28:49] /home/xie/Desktop/Thundersoft/message.log  is create.
+[2022-06-09 16:28:49] Start command.sh
+[2022-06-09 16:28:49] Attempting rmmod drive...
+[2022-06-09 16:28:49] rmmod drive successfully
+[2022-06-09 16:28:49] Start Makefile
+[2022-06-09 16:28:49] Start insmod drive
+[2022-06-09 16:28:49] Start gcc ./User/user.c
+Start user.c
+[2022-06-09 16:29:44] /home/xie/Desktop/Thundersoft/message.log  is create.
+[2022-06-09 16:29:44] Start command.sh
+[2022-06-09 16:29:44] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 16:29:44] rmmod drive failed
+[2022-06-09 16:29:44] Start Makefile
+[2022-06-09 16:29:44] Start insmod drive
+[2022-06-09 16:29:44] Start gcc ./User/user.c
+Start user.c
+[2022-06-09 16:30:38] /home/xie/Desktop/Thundersoft/message.log  is create.
+[2022-06-09 16:30:38] Start command.sh
+[2022-06-09 16:30:38] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 16:30:38] rmmod drive successfully
+[2022-06-09 16:30:38] Start Makefile
+[2022-06-09 16:30:38] Start insmod drive
+[2022-06-09 16:30:38] Start gcc ./User/user.c
+Start user.c
+[2022-06-09 16:31:55] /home/xie/Desktop/Thundersoft/message.log  is create.
+[2022-06-09 16:31:55] Start command.sh
+[2022-06-09 16:31:55] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 16:31:55] rmmod drive successfully
+[2022-06-09 16:31:55] Start Makefile
+[2022-06-09 16:31:55] Start insmod drive
+[2022-06-09 16:31:55] Start gcc ./User/user.c
+Start user.c
+[2022-06-09 16:32:59] /home/xie/Desktop/Thundersoft/message.log  is create.
+[2022-06-09 16:32:59] Start command.sh
+[2022-06-09 16:32:59] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 16:32:59] rmmod drive failed
+[2022-06-09 16:32:59] Start Makefile
+[2022-06-09 16:32:59] Start insmod drive
+[2022-06-09 16:32:59] Start gcc ./User/user.c
+Start user.c
+[2022-06-09 16:48:17] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 16:48:17] Start command.sh
+[2022-06-09 16:48:17] Attempting rmmod drive...
+[2022-06-09 16:48:17] rmmod drive successfully
+[2022-06-09 16:48:17] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 16:48:17] Makefile successfully
+[2022-06-09 16:48:17] Start insmod drive
+[2022-06-09 16:48:17] insmod drive successfully
+[2022-06-09 16:48:17] Start compiling user program
+[2022-06-09 16:48:17] Compiling user program successfully
+Start user program execution
+[2022-06-09 16:48:17] User program execution failed
+[2022-06-09 16:49:17] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 16:49:17] Start command.sh
+[2022-06-09 16:49:17] Attempting rmmod drive...
+[2022-06-09 16:49:17] rmmod drive successfully
+[2022-06-09 16:49:17] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 16:49:17] Makefile successfully
+[2022-06-09 16:49:17] Start insmod drive
+[2022-06-09 16:49:17] insmod drive successfully
+[2022-06-09 16:49:17] Start compiling user program
+./User/user.c:5:10: fatal error: lisd: No such file or directory
+    5 | #include <lisd>
+      |          ^~~~~~
+compilation terminated.
+[2022-06-09 16:49:17] Compiling user program failed
+Start user program execution
+[2022-06-09 16:49:17] User program execution failed
+[2022-06-09 17:02:21] /home/xie/Desktop/Thundersoft/message.log --------------Number of executions  1-----------------
+[2022-06-09 17:02:21] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:02:21] Start command.sh
+[2022-06-09 17:02:21] Attempting rmmod drive...
+[2022-06-09 17:02:21] rmmod drive successfully
+[2022-06-09 17:02:21] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:02:21] Makefile successfully
+[2022-06-09 17:02:21] Start insmod drive
+[2022-06-09 17:02:21] insmod drive successfully
+[2022-06-09 17:02:21] Start compiling user program
+./User/user.c:5:10: fatal error: lisd: No such file or directory
+    5 | #include <lisd>
+      |          ^~~~~~
+compilation terminated.
+[2022-06-09 17:02:21] Compiling user program failed
+[2022-06-09 17:02:21] Start user program execution
+[2022-06-09 17:02:21] User program execution failed
+[2022-06-09 17:02:21] /home/xie/Desktop/Thundersoft/message.log --------------Number of executions  2-----------------
+[2022-06-09 17:02:21] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:02:21] Start command.sh
+[2022-06-09 17:02:21] Attempting rmmod drive...
+[2022-06-09 17:02:21] rmmod drive successfully
+[2022-06-09 17:02:21] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:02:21] Makefile successfully
+[2022-06-09 17:02:21] Start insmod drive
+[2022-06-09 17:02:21] insmod drive successfully
+[2022-06-09 17:02:21] Start compiling user program
+./User/user.c:5:10: fatal error: lisd: No such file or directory
+    5 | #include <lisd>
+      |          ^~~~~~
+compilation terminated.
+[2022-06-09 17:02:21] Compiling user program failed
+[2022-06-09 17:02:21] Start user program execution
+[2022-06-09 17:02:21] User program execution failed
+[2022-06-09 17:02:21] /home/xie/Desktop/Thundersoft/message.log --------------Number of executions  3-----------------
+[2022-06-09 17:02:21] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:02:21] Start command.sh
+[2022-06-09 17:02:21] Attempting rmmod drive...
+[2022-06-09 17:02:21] rmmod drive successfully
+[2022-06-09 17:02:21] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:02:21] Makefile successfully
+[2022-06-09 17:02:21] Start insmod drive
+[2022-06-09 17:02:21] insmod drive successfully
+[2022-06-09 17:02:21] Start compiling user program
+./User/user.c:5:10: fatal error: lisd: No such file or directory
+    5 | #include <lisd>
+      |          ^~~~~~
+compilation terminated.
+[2022-06-09 17:02:21] Compiling user program failed
+[2022-06-09 17:02:21] Start user program execution
+[2022-06-09 17:02:21] User program execution failed
+[2022-06-09 17:02:21] /home/xie/Desktop/Thundersoft/message.log --------------Number of executions  4-----------------
+[2022-06-09 17:02:21] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:02:21] Start command.sh
+[2022-06-09 17:02:21] Attempting rmmod drive...
+[2022-06-09 17:02:21] rmmod drive successfully
+[2022-06-09 17:02:21] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:02:21] Makefile successfully
+[2022-06-09 17:02:21] Start insmod drive
+[2022-06-09 17:02:21] insmod drive successfully
+[2022-06-09 17:02:21] Start compiling user program
+./User/user.c:5:10: fatal error: lisd: No such file or directory
+    5 | #include <lisd>
+      |          ^~~~~~
+compilation terminated.
+[2022-06-09 17:02:21] Compiling user program failed
+[2022-06-09 17:02:21] Start user program execution
+[2022-06-09 17:02:21] User program execution failed
+[2022-06-09 17:02:21] /home/xie/Desktop/Thundersoft/message.log --------------Number of executions  5-----------------
+[2022-06-09 17:02:21] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:02:21] Start command.sh
+[2022-06-09 17:02:21] Attempting rmmod drive...
+[2022-06-09 17:02:21] rmmod drive successfully
+[2022-06-09 17:02:21] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:02:21] Makefile successfully
+[2022-06-09 17:02:21] Start insmod drive
+[2022-06-09 17:02:21] insmod drive successfully
+[2022-06-09 17:02:21] Start compiling user program
+./User/user.c:5:10: fatal error: lisd: No such file or directory
+    5 | #include <lisd>
+      |          ^~~~~~
+compilation terminated.
+[2022-06-09 17:02:21] Compiling user program failed
+[2022-06-09 17:02:21] Start user program execution
+[2022-06-09 17:02:21] User program execution failed
+[2022-06-09 17:02:21] command.sh Execution successfully
+[2022-06-09 17:08:19] /home/xie/Desktop/Thundersoft/message.log --------------Number of executions  1-----------------
+[2022-06-09 17:08:19] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:08:19] Start command.sh
+[2022-06-09 17:08:19] Attempting rmmod drive...
+[2022-06-09 17:08:19] Rmmod drive successfully
+[2022-06-09 17:08:19] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:08:19] Makefile successfully
+[2022-06-09 17:08:19] Start insmod drive
+[2022-06-09 17:08:19] insmod drive successfully
+[2022-06-09 17:08:19] Start compiling user program
+./User/user.c:5:10: fatal error: lisd: No such file or directory
+    5 | #include <lisd>
+      |          ^~~~~~
+compilation terminated.
+[2022-06-09 17:08:19] Compiling user program failed , Replay command.sh
+[2022-06-09 17:08:19] /home/xie/Desktop/Thundersoft/message.log --------------Number of executions  2-----------------
+[2022-06-09 17:08:19] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:08:19] Start command.sh
+[2022-06-09 17:08:19] Attempting rmmod drive...
+[2022-06-09 17:08:19] Rmmod drive successfully
+[2022-06-09 17:08:19] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:08:19] Makefile successfully
+[2022-06-09 17:08:19] Start insmod drive
+[2022-06-09 17:08:19] insmod drive successfully
+[2022-06-09 17:08:19] Start compiling user program
+./User/user.c:5:10: fatal error: lisd: No such file or directory
+    5 | #include <lisd>
+      |          ^~~~~~
+compilation terminated.
+[2022-06-09 17:08:19] Compiling user program failed , Replay command.sh
+[2022-06-09 17:08:19] /home/xie/Desktop/Thundersoft/message.log --------------Number of executions  3-----------------
+[2022-06-09 17:08:19] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:08:19] Start command.sh
+[2022-06-09 17:08:19] Attempting rmmod drive...
+[2022-06-09 17:08:19] Rmmod drive successfully
+[2022-06-09 17:08:19] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:08:19] Makefile successfully
+[2022-06-09 17:08:19] Start insmod drive
+[2022-06-09 17:08:19] insmod drive successfully
+[2022-06-09 17:08:19] Start compiling user program
+./User/user.c:5:10: fatal error: lisd: No such file or directory
+    5 | #include <lisd>
+      |          ^~~~~~
+compilation terminated.
+[2022-06-09 17:08:19] Compiling user program failed , Replay command.sh
+[2022-06-09 17:08:19] /home/xie/Desktop/Thundersoft/message.log --------------Number of executions  4-----------------
+[2022-06-09 17:08:19] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:08:19] Start command.sh
+[2022-06-09 17:08:19] Attempting rmmod drive...
+[2022-06-09 17:08:19] Rmmod drive successfully
+[2022-06-09 17:08:19] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:08:19] Makefile successfully
+[2022-06-09 17:08:19] Start insmod drive
+[2022-06-09 17:08:19] insmod drive successfully
+[2022-06-09 17:08:19] Start compiling user program
+./User/user.c:5:10: fatal error: lisd: No such file or directory
+    5 | #include <lisd>
+      |          ^~~~~~
+compilation terminated.
+[2022-06-09 17:08:19] Compiling user program failed , Replay command.sh
+[2022-06-09 17:08:19] /home/xie/Desktop/Thundersoft/message.log --------------Number of executions  5-----------------
+[2022-06-09 17:08:19] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:08:19] Start command.sh
+[2022-06-09 17:08:19] Attempting rmmod drive...
+[2022-06-09 17:08:19] Rmmod drive successfully
+[2022-06-09 17:08:19] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:08:19] Makefile successfully
+[2022-06-09 17:08:19] Start insmod drive
+[2022-06-09 17:08:19] insmod drive successfully
+[2022-06-09 17:08:19] Start compiling user program
+./User/user.c:5:10: fatal error: lisd: No such file or directory
+    5 | #include <lisd>
+      |          ^~~~~~
+compilation terminated.
+[2022-06-09 17:08:19] Compiling user program failed , Replay command.sh
+[2022-06-09 17:08:19] command.sh Execution failed
+[2022-06-09 17:09:49] ----------Number of executions  1----------
+[2022-06-09 17:09:49] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:09:49] Start command.sh
+[2022-06-09 17:09:49] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:09:49] Rmmod drive failed , Replay command.sh
+[2022-06-09 17:09:49] ----------Number of executions  2----------
+[2022-06-09 17:09:49] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:09:49] Start command.sh
+[2022-06-09 17:09:49] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:09:49] Rmmod drive failed , Replay command.sh
+[2022-06-09 17:09:49] ----------Number of executions  3----------
+[2022-06-09 17:09:49] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:09:49] Start command.sh
+[2022-06-09 17:09:49] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:09:49] Rmmod drive failed , Replay command.sh
+[2022-06-09 17:09:49] ----------Number of executions  4----------
+[2022-06-09 17:09:49] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:09:49] Start command.sh
+[2022-06-09 17:09:49] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:09:49] Rmmod drive failed , Replay command.sh
+[2022-06-09 17:09:49] ----------Number of executions  5----------
+[2022-06-09 17:09:49] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:09:49] Start command.sh
+[2022-06-09 17:09:49] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:09:49] Rmmod drive failed , Replay command.sh
+[2022-06-09 17:09:49] command.sh Execution failed
+[2022-06-09 17:10:22] ----------Number of executions  1----------
+[2022-06-09 17:10:22] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:10:22] Start command.sh
+[2022-06-09 17:10:22] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:10:22] Rmmod drive failed , Replay command.sh
+[2022-06-09 17:10:22] ----------Number of executions  2----------
+[2022-06-09 17:10:22] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:10:22] Start command.sh
+[2022-06-09 17:10:22] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:10:22] Rmmod drive failed , Replay command.sh
+[2022-06-09 17:10:22] ----------Number of executions  3----------
+[2022-06-09 17:10:22] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:10:22] Start command.sh
+[2022-06-09 17:10:22] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:10:22] Rmmod drive failed , Replay command.sh
+[2022-06-09 17:10:22] ----------Number of executions  4----------
+[2022-06-09 17:10:22] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:10:22] Start command.sh
+[2022-06-09 17:10:22] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:10:22] Rmmod drive failed , Replay command.sh
+[2022-06-09 17:10:22] ----------Number of executions  5----------
+[2022-06-09 17:10:22] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:10:22] Start command.sh
+[2022-06-09 17:10:22] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:10:22] Rmmod drive failed , Replay command.sh
+[2022-06-09 17:10:22] command.sh Execution failed
+[2022-06-09 17:11:48] ----------Number of executions  1----------
+[2022-06-09 17:11:48] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:11:48] Start command.sh
+[2022-06-09 17:11:48] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:11:48] Rmmod drive failed 
+[2022-06-09 17:11:48] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:11:48] Makefile successfully
+[2022-06-09 17:11:48] Start insmod drive
+[2022-06-09 17:11:48] insmod drive successfully
+[2022-06-09 17:11:48] Start compiling user program
+[2022-06-09 17:11:48] Compiling user program successfully
+[2022-06-09 17:11:48] Start user program execution
+[2022-06-09 17:11:48] User program execution failed , Replay command.sh
+[2022-06-09 17:11:48] ----------Number of executions  2----------
+[2022-06-09 17:11:48] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:11:48] Start command.sh
+[2022-06-09 17:11:48] Attempting rmmod drive...
+[2022-06-09 17:11:48] Rmmod drive successfully
+[2022-06-09 17:11:48] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:11:48] Makefile successfully
+[2022-06-09 17:11:48] Start insmod drive
+[2022-06-09 17:11:48] insmod drive successfully
+[2022-06-09 17:11:48] Start compiling user program
+[2022-06-09 17:11:48] Compiling user program successfully
+[2022-06-09 17:11:48] Start user program execution
+[2022-06-09 17:11:48] User program execution failed , Replay command.sh
+[2022-06-09 17:11:48] ----------Number of executions  3----------
+[2022-06-09 17:11:48] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:11:48] Start command.sh
+[2022-06-09 17:11:48] Attempting rmmod drive...
+[2022-06-09 17:11:48] Rmmod drive successfully
+[2022-06-09 17:11:48] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:11:48] Makefile successfully
+[2022-06-09 17:11:48] Start insmod drive
+[2022-06-09 17:11:48] insmod drive successfully
+[2022-06-09 17:11:48] Start compiling user program
+[2022-06-09 17:11:48] Compiling user program successfully
+[2022-06-09 17:11:48] Start user program execution
+[2022-06-09 17:11:48] User program execution failed , Replay command.sh
+[2022-06-09 17:11:48] ----------Number of executions  4----------
+[2022-06-09 17:11:48] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:11:48] Start command.sh
+[2022-06-09 17:11:48] Attempting rmmod drive...
+[2022-06-09 17:11:48] Rmmod drive successfully
+[2022-06-09 17:11:48] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:11:48] Makefile successfully
+[2022-06-09 17:11:48] Start insmod drive
+[2022-06-09 17:11:48] insmod drive successfully
+[2022-06-09 17:11:48] Start compiling user program
+[2022-06-09 17:11:48] Compiling user program successfully
+[2022-06-09 17:11:48] Start user program execution
+[2022-06-09 17:11:48] User program execution failed , Replay command.sh
+[2022-06-09 17:11:48] ----------Number of executions  5----------
+[2022-06-09 17:11:48] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:11:48] Start command.sh
+[2022-06-09 17:11:48] Attempting rmmod drive...
+[2022-06-09 17:11:48] Rmmod drive successfully
+[2022-06-09 17:11:48] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:11:48] Makefile successfully
+[2022-06-09 17:11:48] Start insmod drive
+[2022-06-09 17:11:48] insmod drive successfully
+[2022-06-09 17:11:48] Start compiling user program
+[2022-06-09 17:11:48] Compiling user program successfully
+[2022-06-09 17:11:48] Start user program execution
+[2022-06-09 17:11:48] User program execution failed , Replay command.sh
+[2022-06-09 17:11:48] command.sh Execution failed
+[2022-06-09 17:14:18] ----------Number of executions  1----------
+[2022-06-09 17:14:18] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:14:18] Start command.sh
+[2022-06-09 17:14:18] Attempting rmmod drive...
+[2022-06-09 17:14:18] Rmmod drive successfully
+[2022-06-09 17:14:18] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:14:18] Makefile successfully
+[2022-06-09 17:14:18] Start insmod drive
+[2022-06-09 17:14:18] insmod drive successfully
+[2022-06-09 17:14:18] Start compiling user program
+[2022-06-09 17:14:18] Compiling user program successfully
+[2022-06-09 17:14:18] Start user program execution
+[2022-06-09 17:14:18] User program execution successfully
+[2022-06-09 17:14:18] command.sh Execution successfully
+[2022-06-09 17:15:11] ----------Number of executions  1----------
+[2022-06-09 17:15:11] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:15:11] Start command.sh
+[2022-06-09 17:15:11] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:15:11] Rmmod drive failed 
+[2022-06-09 17:15:11] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:15:11] Makefile successfully
+[2022-06-09 17:15:11] Start insmod drive
+[2022-06-09 17:15:11] insmod drive successfully
+[2022-06-09 17:15:11] Start compiling user program
+[2022-06-09 17:15:11] Compiling user program successfully
+[2022-06-09 17:15:11] Start user program execution
+[2022-06-09 17:15:11] User program execution successfully
+[2022-06-09 17:15:11] command.sh Execution successfully
+[2022-06-09 17:28:46] ----------Number of executions  1----------
+[2022-06-09 17:28:46] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:28:46] Start command.sh
+[2022-06-09 17:28:46] Attempting rmmod drive...
+[2022-06-09 17:28:46] Rmmod drive successfully
+[2022-06-09 17:28:46] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+  CC [M]  /home/xie/Desktop/Thundersoft/Driver/drive.o
+/home/xie/Desktop/Thundersoft/Driver/drive.c: In function ‘thread2_work’:
+/home/xie/Desktop/Thundersoft/Driver/drive.c:306:33: error: ‘sem_2_count’ undeclared (first use in this function); did you mean ‘seqcount’?
+  306 |                                 sem_2_count = 1;
+      |                                 ^~~~~~~~~~~
+      |                                 seqcount
+/home/xie/Desktop/Thundersoft/Driver/drive.c:306:33: note: each undeclared identifier is reported only once for each function it appears in
+make[2]: *** [scripts/Makefile.build:285: /home/xie/Desktop/Thundersoft/Driver/drive.o] Error 1
+make[1]: *** [Makefile:1875: /home/xie/Desktop/Thundersoft/Driver] Error 2
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+make: *** [Makefile:7: default] Error 2
+[2022-06-09 17:28:46] Makefile failed , Replay command.sh
+[2022-06-09 17:28:46] ----------Number of executions  2----------
+[2022-06-09 17:28:46] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:28:46] Start command.sh
+[2022-06-09 17:28:46] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:28:46] Rmmod drive failed 
+[2022-06-09 17:28:46] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+  CC [M]  /home/xie/Desktop/Thundersoft/Driver/drive.o
+/home/xie/Desktop/Thundersoft/Driver/drive.c: In function ‘thread2_work’:
+/home/xie/Desktop/Thundersoft/Driver/drive.c:306:33: error: ‘sem_2_count’ undeclared (first use in this function); did you mean ‘seqcount’?
+  306 |                                 sem_2_count = 1;
+      |                                 ^~~~~~~~~~~
+      |                                 seqcount
+/home/xie/Desktop/Thundersoft/Driver/drive.c:306:33: note: each undeclared identifier is reported only once for each function it appears in
+make[2]: *** [scripts/Makefile.build:285: /home/xie/Desktop/Thundersoft/Driver/drive.o] Error 1
+make[1]: *** [Makefile:1875: /home/xie/Desktop/Thundersoft/Driver] Error 2
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+make: *** [Makefile:7: default] Error 2
+[2022-06-09 17:28:46] Makefile failed , Replay command.sh
+[2022-06-09 17:28:46] ----------Number of executions  3----------
+[2022-06-09 17:28:46] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:28:46] Start command.sh
+[2022-06-09 17:28:46] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:28:46] Rmmod drive failed 
+[2022-06-09 17:28:46] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+  CC [M]  /home/xie/Desktop/Thundersoft/Driver/drive.o
+/home/xie/Desktop/Thundersoft/Driver/drive.c: In function ‘thread2_work’:
+/home/xie/Desktop/Thundersoft/Driver/drive.c:306:33: error: ‘sem_2_count’ undeclared (first use in this function); did you mean ‘seqcount’?
+  306 |                                 sem_2_count = 1;
+      |                                 ^~~~~~~~~~~
+      |                                 seqcount
+/home/xie/Desktop/Thundersoft/Driver/drive.c:306:33: note: each undeclared identifier is reported only once for each function it appears in
+make[2]: *** [scripts/Makefile.build:285: /home/xie/Desktop/Thundersoft/Driver/drive.o] Error 1
+make[1]: *** [Makefile:1875: /home/xie/Desktop/Thundersoft/Driver] Error 2
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+make: *** [Makefile:7: default] Error 2
+[2022-06-09 17:28:46] Makefile failed , Replay command.sh
+[2022-06-09 17:28:46] ----------Number of executions  4----------
+[2022-06-09 17:28:46] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:28:46] Start command.sh
+[2022-06-09 17:28:46] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:28:46] Rmmod drive failed 
+[2022-06-09 17:28:46] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+  CC [M]  /home/xie/Desktop/Thundersoft/Driver/drive.o
+/home/xie/Desktop/Thundersoft/Driver/drive.c: In function ‘thread2_work’:
+/home/xie/Desktop/Thundersoft/Driver/drive.c:306:33: error: ‘sem_2_count’ undeclared (first use in this function); did you mean ‘seqcount’?
+  306 |                                 sem_2_count = 1;
+      |                                 ^~~~~~~~~~~
+      |                                 seqcount
+/home/xie/Desktop/Thundersoft/Driver/drive.c:306:33: note: each undeclared identifier is reported only once for each function it appears in
+make[2]: *** [scripts/Makefile.build:285: /home/xie/Desktop/Thundersoft/Driver/drive.o] Error 1
+make[1]: *** [Makefile:1875: /home/xie/Desktop/Thundersoft/Driver] Error 2
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+make: *** [Makefile:7: default] Error 2
+[2022-06-09 17:28:46] Makefile failed , Replay command.sh
+[2022-06-09 17:28:46] ----------Number of executions  5----------
+[2022-06-09 17:28:46] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:28:46] Start command.sh
+[2022-06-09 17:28:46] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:28:46] Rmmod drive failed 
+[2022-06-09 17:28:46] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+  CC [M]  /home/xie/Desktop/Thundersoft/Driver/drive.o
+/home/xie/Desktop/Thundersoft/Driver/drive.c: In function ‘thread2_work’:
+/home/xie/Desktop/Thundersoft/Driver/drive.c:306:33: error: ‘sem_2_count’ undeclared (first use in this function); did you mean ‘seqcount’?
+  306 |                                 sem_2_count = 1;
+      |                                 ^~~~~~~~~~~
+      |                                 seqcount
+/home/xie/Desktop/Thundersoft/Driver/drive.c:306:33: note: each undeclared identifier is reported only once for each function it appears in
+make[2]: *** [scripts/Makefile.build:285: /home/xie/Desktop/Thundersoft/Driver/drive.o] Error 1
+make[1]: *** [Makefile:1875: /home/xie/Desktop/Thundersoft/Driver] Error 2
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+make: *** [Makefile:7: default] Error 2
+[2022-06-09 17:28:46] Makefile failed , Replay command.sh
+[2022-06-09 17:28:46] command.sh Execution failed
+[2022-06-09 17:29:46] ----------Number of executions  1----------
+[2022-06-09 17:29:46] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:29:46] Start command.sh
+[2022-06-09 17:29:46] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:29:46] Rmmod drive failed 
+[2022-06-09 17:29:46] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+  CC [M]  /home/xie/Desktop/Thundersoft/Driver/drive.o
+  MODPOST /home/xie/Desktop/Thundersoft/Driver/Module.symvers
+  CC [M]  /home/xie/Desktop/Thundersoft/Driver/drive.mod.o
+  LD [M]  /home/xie/Desktop/Thundersoft/Driver/drive.ko
+  BTF [M] /home/xie/Desktop/Thundersoft/Driver/drive.ko
+Skipping BTF generation for /home/xie/Desktop/Thundersoft/Driver/drive.ko due to unavailability of vmlinux
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:29:46] Makefile successfully
+[2022-06-09 17:29:46] Start insmod drive
+[2022-06-09 17:29:46] insmod drive successfully
+[2022-06-09 17:29:46] Start compiling user program
+[2022-06-09 17:29:46] Compiling user program successfully
+[2022-06-09 17:29:46] Start user program execution
+[2022-06-09 17:29:46] User program execution successfully
+[2022-06-09 17:29:46] command.sh Execution successfully
+[2022-06-09 17:30:09] ----------Number of executions  1----------
+[2022-06-09 17:30:09] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:30:09] Start command.sh
+[2022-06-09 17:30:09] Attempting rmmod drive...
+[2022-06-09 17:30:09] Rmmod drive successfully
+[2022-06-09 17:30:09] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:30:09] Makefile successfully
+[2022-06-09 17:30:09] Start insmod drive
+[2022-06-09 17:30:09] insmod drive successfully
+[2022-06-09 17:30:09] Start compiling user program
+[2022-06-09 17:30:09] Compiling user program successfully
+[2022-06-09 17:30:09] Start user program execution
+[2022-06-09 17:30:09] User program execution successfully
+[2022-06-09 17:30:09] command.sh Execution successfully
+[2022-06-09 17:32:09] ----------Number of executions  1----------
+[2022-06-09 17:32:09] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:32:09] Start command.sh
+[2022-06-09 17:32:09] Attempting rmmod drive...
+[2022-06-09 17:32:09] Rmmod drive successfully
+[2022-06-09 17:32:09] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:32:09] Makefile successfully
+[2022-06-09 17:32:09] Start insmod drive
+[2022-06-09 17:32:09] insmod drive successfully
+[2022-06-09 17:32:09] Start compiling user program
+[2022-06-09 17:32:09] Compiling user program successfully
+[2022-06-09 17:32:09] Start user program execution
+[2022-06-09 17:40:12] ----------Number of executions  1----------
+[2022-06-09 17:40:12] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:40:12] Start command.sh
+[2022-06-09 17:40:12] Attempting rmmod drive...
+rmmod: ERROR: Module drive is not currently loaded
+[2022-06-09 17:40:12] Rmmod drive failed 
+[2022-06-09 17:40:12] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:40:12] Makefile successfully
+[2022-06-09 17:40:12] Start insmod drive
+[2022-06-09 17:40:12] insmod drive successfully
+[2022-06-09 17:40:12] Start compiling user program
+./User/user.c: In function ‘main’:
+./User/user.c:85:32: error: stray ‘\’ in program
+   85 |         printf("按 q 或 Q 退出"\n);
+      |                                ^
+./User/user.c:85:32: error: expected ‘)’ before ‘n’
+   85 |         printf("按 q 或 Q 退出"\n);
+      |               ~                ^~
+      |                                )
+[2022-06-09 17:40:12] Compiling user program failed , Replay command.sh
+[2022-06-09 17:40:12] ----------Number of executions  2----------
+[2022-06-09 17:40:12] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:40:12] Start command.sh
+[2022-06-09 17:40:12] Attempting rmmod drive...
+[2022-06-09 17:40:12] Rmmod drive successfully
+[2022-06-09 17:40:12] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:40:12] Makefile successfully
+[2022-06-09 17:40:12] Start insmod drive
+[2022-06-09 17:40:12] insmod drive successfully
+[2022-06-09 17:40:12] Start compiling user program
+./User/user.c: In function ‘main’:
+./User/user.c:85:32: error: stray ‘\’ in program
+   85 |         printf("按 q 或 Q 退出"\n);
+      |                                ^
+./User/user.c:85:32: error: expected ‘)’ before ‘n’
+   85 |         printf("按 q 或 Q 退出"\n);
+      |               ~                ^~
+      |                                )
+[2022-06-09 17:40:12] Compiling user program failed , Replay command.sh
+[2022-06-09 17:40:12] ----------Number of executions  3----------
+[2022-06-09 17:40:12] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:40:12] Start command.sh
+[2022-06-09 17:40:12] Attempting rmmod drive...
+[2022-06-09 17:40:12] Rmmod drive successfully
+[2022-06-09 17:40:12] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:40:12] Makefile successfully
+[2022-06-09 17:40:12] Start insmod drive
+[2022-06-09 17:40:12] insmod drive successfully
+[2022-06-09 17:40:12] Start compiling user program
+./User/user.c: In function ‘main’:
+./User/user.c:85:32: error: stray ‘\’ in program
+   85 |         printf("按 q 或 Q 退出"\n);
+      |                                ^
+./User/user.c:85:32: error: expected ‘)’ before ‘n’
+   85 |         printf("按 q 或 Q 退出"\n);
+      |               ~                ^~
+      |                                )
+[2022-06-09 17:40:12] Compiling user program failed , Replay command.sh
+[2022-06-09 17:40:12] ----------Number of executions  4----------
+[2022-06-09 17:40:12] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:40:12] Start command.sh
+[2022-06-09 17:40:12] Attempting rmmod drive...
+[2022-06-09 17:40:12] Rmmod drive successfully
+[2022-06-09 17:40:12] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:40:12] Makefile successfully
+[2022-06-09 17:40:12] Start insmod drive
+[2022-06-09 17:40:12] insmod drive successfully
+[2022-06-09 17:40:12] Start compiling user program
+./User/user.c: In function ‘main’:
+./User/user.c:85:32: error: stray ‘\’ in program
+   85 |         printf("按 q 或 Q 退出"\n);
+      |                                ^
+./User/user.c:85:32: error: expected ‘)’ before ‘n’
+   85 |         printf("按 q 或 Q 退出"\n);
+      |               ~                ^~
+      |                                )
+[2022-06-09 17:40:12] Compiling user program failed , Replay command.sh
+[2022-06-09 17:40:12] ----------Number of executions  5----------
+[2022-06-09 17:40:12] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:40:12] Start command.sh
+[2022-06-09 17:40:12] Attempting rmmod drive...
+[2022-06-09 17:40:12] Rmmod drive successfully
+[2022-06-09 17:40:12] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:40:12] Makefile successfully
+[2022-06-09 17:40:12] Start insmod drive
+[2022-06-09 17:40:12] insmod drive successfully
+[2022-06-09 17:40:12] Start compiling user program
+./User/user.c: In function ‘main’:
+./User/user.c:85:32: error: stray ‘\’ in program
+   85 |         printf("按 q 或 Q 退出"\n);
+      |                                ^
+./User/user.c:85:32: error: expected ‘)’ before ‘n’
+   85 |         printf("按 q 或 Q 退出"\n);
+      |               ~                ^~
+      |                                )
+[2022-06-09 17:40:12] Compiling user program failed , Replay command.sh
+[2022-06-09 17:40:12] command.sh Execution failed
+[2022-06-09 17:41:28] ----------Number of executions  1----------
+[2022-06-09 17:41:28] /home/xie/Desktop/Thundersoft/message.log  is created.
+rm: cannot remove './User/user': No such file or directory
+[2022-06-09 17:41:28] Start command.sh
+[2022-06-09 17:41:28] Attempting rmmod drive...
+[2022-06-09 17:41:28] Rmmod drive successfully
+[2022-06-09 17:41:28] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:41:28] Makefile successfully
+[2022-06-09 17:41:28] Start insmod drive
+[2022-06-09 17:41:28] insmod drive successfully
+[2022-06-09 17:41:28] Start compiling user program
+[2022-06-09 17:41:28] Compiling user program successfully
+[2022-06-09 17:41:28] Start user program execution
+[2022-06-09 17:41:28] User program execution failed , Replay command.sh
+[2022-06-09 17:41:28] ----------Number of executions  2----------
+[2022-06-09 17:41:28] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:41:28] Start command.sh
+[2022-06-09 17:41:28] Attempting rmmod drive...
+[2022-06-09 17:41:28] Rmmod drive successfully
+[2022-06-09 17:41:28] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:41:28] Makefile successfully
+[2022-06-09 17:41:28] Start insmod drive
+[2022-06-09 17:41:28] insmod drive successfully
+[2022-06-09 17:41:28] Start compiling user program
+[2022-06-09 17:41:28] Compiling user program successfully
+[2022-06-09 17:41:28] Start user program execution
+[2022-06-09 17:41:28] User program execution failed , Replay command.sh
+[2022-06-09 17:41:28] ----------Number of executions  3----------
+[2022-06-09 17:41:28] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:41:28] Start command.sh
+[2022-06-09 17:41:28] Attempting rmmod drive...
+[2022-06-09 17:41:28] Rmmod drive successfully
+[2022-06-09 17:41:28] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:41:28] Makefile successfully
+[2022-06-09 17:41:28] Start insmod drive
+[2022-06-09 17:41:28] insmod drive successfully
+[2022-06-09 17:41:28] Start compiling user program
+[2022-06-09 17:41:28] Compiling user program successfully
+[2022-06-09 17:41:28] Start user program execution
+[2022-06-09 17:41:28] User program execution failed , Replay command.sh
+[2022-06-09 17:41:28] ----------Number of executions  4----------
+[2022-06-09 17:41:28] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:41:28] Start command.sh
+[2022-06-09 17:41:28] Attempting rmmod drive...
+[2022-06-09 17:41:28] Rmmod drive successfully
+[2022-06-09 17:41:28] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:41:28] Makefile successfully
+[2022-06-09 17:41:28] Start insmod drive
+[2022-06-09 17:41:28] insmod drive successfully
+[2022-06-09 17:41:28] Start compiling user program
+[2022-06-09 17:41:28] Compiling user program successfully
+[2022-06-09 17:41:28] Start user program execution
+[2022-06-09 17:41:28] User program execution failed , Replay command.sh
+[2022-06-09 17:41:28] ----------Number of executions  5----------
+[2022-06-09 17:41:28] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:41:28] Start command.sh
+[2022-06-09 17:41:28] Attempting rmmod drive...
+[2022-06-09 17:41:28] Rmmod drive successfully
+[2022-06-09 17:41:28] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:41:28] Makefile successfully
+[2022-06-09 17:41:28] Start insmod drive
+[2022-06-09 17:41:28] insmod drive successfully
+[2022-06-09 17:41:28] Start compiling user program
+[2022-06-09 17:41:28] Compiling user program successfully
+[2022-06-09 17:41:28] Start user program execution
+[2022-06-09 17:41:28] User program execution failed , Replay command.sh
+[2022-06-09 17:41:28] command.sh Execution failed
+[2022-06-09 17:43:21] ----------Number of executions  1----------
+[2022-06-09 17:43:21] /home/xie/Desktop/Thundersoft/message.log  is created.
+[2022-06-09 17:43:21] Start command.sh
+[2022-06-09 17:43:21] Attempting rmmod drive...
+[2022-06-09 17:43:21] Rmmod drive successfully
+[2022-06-09 17:43:21] Start Makefile
+make -C /lib/modules/5.15.0-30-generic/build M=/home/xie/Desktop/Thundersoft/Driver modules
+make[1]: Entering directory '/usr/src/linux-headers-5.15.0-30-generic'
+make[1]: Leaving directory '/usr/src/linux-headers-5.15.0-30-generic'
+[2022-06-09 17:43:21] Makefile successfully
+[2022-06-09 17:43:21] Start insmod drive
+[2022-06-09 17:43:21] insmod drive successfully
+[2022-06-09 17:43:21] Start compiling user program
+[2022-06-09 17:43:21] Compiling user program successfully
+[2022-06-09 17:43:21] Start user program execution
+[2022-06-09 17:43:21] User program execution successfully
+[2022-06-09 17:43:21] command.sh Execution successfully
