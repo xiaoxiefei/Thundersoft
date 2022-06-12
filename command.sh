@@ -101,6 +101,16 @@ else
 	echo ${TIME} "Execute make clean failed" >> $logfile
 fi
 
+#卸载模块
+echo ${TIME} "Attempting rmmod drive..." >>$logfile
+sudo rmmod drive >> $logfile 2>&1
+if [ $? -eq 0 ]
+then
+	echo ${TIME} "Rmmod drive successfully" >>$logfile 2>&1
+else
+	echo ${TIME} "Rmmod drive failed " >>$logfile 2>&1
+fi
+
 if [ $index -eq 6 ]
 then
 	echo ${TIME} "command.sh Execution failed" >>$logfile

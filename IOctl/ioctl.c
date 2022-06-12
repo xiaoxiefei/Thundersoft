@@ -158,6 +158,7 @@ static int __init io_init(void){
 	memset(io_devices, 0, sizeof(struct io_dev));
 	cdev_init(&io_devices->cdev, &io_fops);
 	io_devices->cdev.owner = THIS_MODULE;
+	//io_devices->cdev.owner = drive;
 	io_devices->cdev.ops = &io_fops;
 
 	retval = cdev_add(&io_devices->cdev, devno, 1);

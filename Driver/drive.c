@@ -50,10 +50,11 @@
 #define COMMAND_0 '0'
 
 
-//static struct semaphore sem;
+//控制线程的信号
 static struct semaphore sem_1;
 static struct semaphore sem_2;
 
+//字符设备
 struct io_dev{
 	struct cdev cdev;
 };
@@ -63,7 +64,7 @@ static struct class *io_class;
 static unsigned char io_count = 0;
 static u8 io_buf[BUF_SIZE];
 
-
+//线程
 static struct task_struct *task1;
 static struct task_struct *task2;
 
@@ -138,6 +139,26 @@ out:
 static long io_ioctl(struct file *filp, unsigned int cmd, unsigned long arg){
 	//int retval = 0;
 	printk(KERN_ERR "Line %d, function %s() has been invoked!\n", __LINE__, __func__);
+	if(sem_1.count == 5 || sem_2.count == 5){
+		if((cmd >= 'b') && (cmd <= 'e')){
+			printk("The thread-1 has not started yet!\n");
+			return 0;
+		}
+		else if((cmd >= 'B') && (cmd <= 'E')){
+			printk("The thread-2 has not started yet!\n");
+			return 0;
+		}
+		else if(((cmd >= '2') && (cmd <= '4')) || (cmd == '0')){
+			if(sem_1.count == 5){
+				printk("The thread-1 has not started yet!\n");
+			}
+			if(sem_2.count == 5){
+				printk("The thread-2 has not started yet!\n");
+			}
+			return 0;
+		}
+	}
+	
 	switch(cmd){
 		//控制第一个线程
 		case COMMAND_a:
@@ -252,25 +273,25 @@ static int thread1_work(void *data){
 	//allow_signal(SIGKILL);
 	mdelay(1000);
 	sema_init(&sem_1, 5);
-	printk("sem_1.count = %d\n", sem_1.count);
+//	printk("sem_1.count = %d\n", sem_1.count);
 	while((!kthread_should_stop())&&sem_1.count){ 
 		set_current_state(TASK_INTERRUPTIBLE);
 		switch(sem_1.count){
 			case 1:
-				printk("Thread-1 : %d\n", i++);
+				printk("Thread-1 : %d\n", (i++)%101);
 				schedule_timeout(HZ * 1);
 				break;
 			case 2:
 				schedule_timeout(HZ * 0.1);
 				break;
 			case 3:
-				printk("Thread-1 : %d\n", i++);
+				printk("Thread-1 : %d\n", (i++)%101);
 				schedule_timeout(HZ * 1);
 				break;
 			case 4:
 				i = 1;
 				sem_1.count = 1;
-				printk("Thread-1 : %d\n", i++);
+				printk("Thread-1 : %d\n", (i++)%101);
 				schedule_timeout(HZ * 1);
 				break;
 			default:
@@ -291,20 +312,20 @@ static int thread2_work(void *data){
 		set_current_state(TASK_INTERRUPTIBLE);
 		switch(sem_2.count){
 			case 1:
-				printk("              Thread-2 : %d\n", j++);
+				printk("              Thread-2 : %d\n", (j++)%101);
 				schedule_timeout(HZ * 2);
 				break;
 			case 2:
 				schedule_timeout(HZ * 0.1);
 				break;
 			case 3:
-				printk("              Thread-2 : %d\n", j++);
+				printk("              Thread-2 : %d\n", (j++)%101);
 				schedule_timeout(HZ * 2);
 				break;
 			case 4:
-				j = 0;
+				j = 1;
 				sem_2.count = 1;
-				printk("              Thread-2 : %d\n", j++);
+				printk("              Thread-2 : %d\n", (j++)%101);
 				schedule_timeout(HZ * 2);
 				break;
 			default:
@@ -339,6 +360,7 @@ static int __init test_init(void)
 	memset(io_devices, 0, sizeof(struct io_dev));
 	cdev_init(&io_devices->cdev, &io_fops);
 	io_devices->cdev.owner = THIS_MODULE;
+	//io_devices->cdev.owner = drive;
 	io_devices->cdev.ops = &io_fops;
 	retval = cdev_add(&io_devices->cdev, devno, 1);
 	if(retval){
